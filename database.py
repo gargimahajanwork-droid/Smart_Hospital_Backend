@@ -8,7 +8,7 @@ from sqlalchemy.orm import declarative_base
 # import declarative base to create models
 
 
-DATABASE_URL = "postgresql://postgres:gargi123@localhost/hospital_db_new"
+DATABASE_URL = "postgresql://postgres:YOUR_PASSWORD@localhost/hospital_db_new"
 
 
 # create database engine 
